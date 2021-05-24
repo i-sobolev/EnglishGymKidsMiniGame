@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 3c131006c2190e64e8d9b79bf16455f5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neo Sans Pro
+  fontNames:
+  - Neo Sans Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f8856828b3c8e1a48af2a05758f9fa9d, type: 3}
+  - {fileID: 12800000, guid: 784b8f2894c3b4646bc14dc1bf09d64e, type: 3}
+  - {fileID: 12800000, guid: a3a7312d68f76b4428e02a59bcd8c587, type: 3}
+  - {fileID: 12800000, guid: 966a984f4f22e414a9bf7cd52d1a97ff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
